@@ -84,7 +84,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue primero para discut
 
 ## 👥 Autores
 
-- [Tu Nombre]
+- Victor Manuel Martinez Cruz
 
 ## 🙏 Agradecimientos
 
